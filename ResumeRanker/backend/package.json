@@ -8,10 +8,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "Yashcodes16"
+    "url": "bhavuk"
   },
   "license": "ISC",
-  "author": "Yash dua",
+  "author": "bhavuk",
   "type": "module",
   "main": "server.js",
   "scripts": {
