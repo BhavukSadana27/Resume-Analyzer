@@ -8,10 +8,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "bhavuk"
+    "url": "Bhavuk The DON <"
   },
   "license": "ISC",
-  "author": "bhavuk",
+  "author": "Bhavuk The DON <",
   "type": "module",
   "main": "server.js",
   "scripts": {
