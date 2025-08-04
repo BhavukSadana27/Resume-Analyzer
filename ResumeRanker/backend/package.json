@@ -8,10 +8,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "Bhavuk The DON <"
+    "url": "Bhavuk analyzer"
   },
   "license": "ISC",
-  "author": "Bhavuk The DON <",
+  "author": "Bhavuk analyzer",
   "type": "module",
   "main": "server.js",
   "scripts": {
